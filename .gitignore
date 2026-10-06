@@ -1,0 +1,5 @@
+__pycache__/
+# NotebookLM credentials must never be committed
+storage_state.json
+master_token.json
+.notebooklm/
